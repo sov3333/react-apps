@@ -1,5 +1,6 @@
 import React from 'react';
 
+import { Header, Footer, Blog, Possibility, Features, WhatGPT3 } from './containers';
 import { Article, Brand, CTA } from './components';
 
 const App = () => {
