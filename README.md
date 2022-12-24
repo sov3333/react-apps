@@ -11,6 +11,10 @@ Install dependencies:
 npm install react-icons
 ```
 
+Gradient generator for background: https://angrytools.com/gradient/
+
+CSS animations: https://animista.net/play/basic/scale-up
+
 ## Tips & Tricks
 
 
