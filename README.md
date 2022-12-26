@@ -15,6 +15,13 @@ Gradient generator for background: https://angrytools.com/gradient/
 
 CSS animations: https://animista.net/play/basic/scale-up
 
+### Setup Project 2
+
+Install dependencies:
+```
+npm install react-icons
+```
+
 ## Tips & Tricks
 
 
