@@ -54,3 +54,19 @@ npm run dev
 - On a blank `.jsx` file, type `rafce` then press `Tab`.
 - Note: This requires the `ES7+ React/Redux/React-Native snippets` (dsznajder.es7-react-js-snippets) extension.
 
+2. Instant return
+
+```
+const WithCurlyBrackets = () => {
+    return (
+        <p>Hello</p>
+    )
+}
+```
+
+is the same as:
+```
+const NoCurlyBrackets = () => (
+    <p>Hello</p>
+)
+```
