@@ -37,7 +37,7 @@ npm install
 Install [TailwindCSS using PostCSS](https://tailwindcss.com/docs/installation/using-postcss):
 ```
 npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init
+npx tailwindcss init -p
 ```
 
 Run:
