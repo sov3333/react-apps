@@ -22,6 +22,30 @@ Install dependencies:
 npm install react-icons
 ```
 
+### Setup Project 3
+
+Setup:
+```
+npm create vite@latest
+```
+
+Install dependencies:
+```
+npm install
+```
+
+Install [TailwindCSS using PostCSS](https://tailwindcss.com/docs/installation/using-postcss):
+```
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init
+```
+
+Run:
+```
+npm run dev
+```
+
+
 ## Tips & Tricks
 
 
