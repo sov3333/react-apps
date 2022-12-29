@@ -45,6 +45,17 @@ Run:
 npm run dev
 ```
 
+### Setup Project 4
+
+Install:
+```
+npm i 
+```
+
+Run:
+```
+npm run dev
+```
 
 ## Tips & Tricks
 
