@@ -44,6 +44,8 @@ const Timeline = () => {
 
   return (
     <Section id="about">
+      <SectionDivider />
+      <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         How I started learning, what are some of the big milestones, etc, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
